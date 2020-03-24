@@ -91,4 +91,16 @@ msgstr ""
 msgid "comment_form_label_status_change"
 msgstr ""
 
+msgid "search_address_placeholder"
+msgstr ""
+
+msgid "filter_infections_locations"
+msgstr ""
+
+msgid "accept_button"
+msgstr ""
+
+msgid "terms_and_conditions_label"
+msgstr ""
+
 

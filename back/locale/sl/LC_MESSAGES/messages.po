@@ -22,7 +22,7 @@ msgstr "Pomoč"
 
 # index.jinja2
 msgid "call_to_action_title"
-msgstr "Ste okuženi s Covid-19?"
+msgstr "Ste i s Covid-19?"
 
 msgid "call_to_action_text"
 msgstr ""
@@ -119,3 +119,9 @@ msgstr "Območje razkuženo"
 
 msgid "comment_form_label_status_change"
 msgstr "Spremeni stanje okužbe"
+
+msgid "search_address_placeholder"
+msgstr "Išči lokacije"
+
+msgid "filter_infections_locations"
+msgstr "Filtriraj kužne lokacije po datumih"

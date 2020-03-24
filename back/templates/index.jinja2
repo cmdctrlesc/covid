@@ -2,7 +2,7 @@
 {% block sidebar %}
 <form id="search-address-form" class="form-inline" action="{{ request.route_url('search_address') }}" method="POST">
   <div class="input-group mb-3" style="width: 100%;">
-    <input type="text" class="form-control form-control-lg" name="search" placeholder="Search Address">
+    <input type="text" class="form-control form-control-lg" name="search" placeholder="{{ _('search_address_placeholder') }}">
     <div class="input-group-append">
       <button class="btn btn-primary" style="color: white" type="submit"><i class="fa fa-search" style="color: white"></i></button>
     </div>
@@ -10,7 +10,7 @@
 </form>
 
 <div class="form-group">
-  <label for="map-filter-start">Filter infectious locations by dates</label>
+  <label for="map-filter-start">{{ _('search_address_placeholder') }}</label>
     <div class='input-group date' id='datetimepicker1'>
         <input type="date" id="map-filter-start" name="map-filter-start" value="2020-03-01" min="2020-03-01" max="{{ isotoday }}" class="form-control form-control-lg" required>
         <input type="date" id="map-filter-end" name="map-filter-end" value="{{ isotoday }}" min="2020-03-10" max="{{ isotoday }}" class="form-control form-control-lg" required>

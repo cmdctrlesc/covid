@@ -120,3 +120,9 @@ msgstr "Area disinfected"
 
 msgid "comment_form_label_status_change"
 msgstr "Change status"
+
+msgid "search_address_placeholder"
+msgstr "Search address"
+
+msgid "filter_infections_locations"
+msgstr "Filter infectious locations by date"
