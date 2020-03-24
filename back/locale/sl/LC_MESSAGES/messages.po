@@ -123,5 +123,11 @@ msgstr "Spremeni stanje okužbe"
 msgid "search_address_placeholder"
 msgstr "Išči lokacije"
 
-msgid "filter_infections_locations"
+msgid "filter_locations"
 msgstr "Filtriraj kužne lokacije po datumih"
+
+msgid "accept_button"
+msgstr "Sprejmi"
+
+msgid "terms_and_conditions_label"
+msgstr "pogoje"

@@ -126,3 +126,9 @@ msgstr "Search address"
 
 msgid "filter_infections_locations"
 msgstr "Filter infectious locations by date"
+
+msgid "accept_button"
+msgstr "Accept"
+
+msgid "terms_and_conditions_label"
+msgstr "terms and conditions"
